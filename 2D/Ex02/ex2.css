@@ -1,0 +1,24 @@
+div {
+	width: 100px;
+	height: 100px;
+}
+
+.main{
+	position: absolute;
+}
+
+.squareblue {
+	position: absolute;
+	background-color: #0000ff;
+}
+
+.signature{
+	position: absolute;
+	width: 320px; 
+	left: 0px; top: 330px;
+}
+
+.signature:hover{
+	background-color: #0000ff;
+	color: #ffffff;
+}
